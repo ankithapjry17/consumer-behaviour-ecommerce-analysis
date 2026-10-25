@@ -1,0 +1,531 @@
+Customer ID,Age,Gender,Item Purchased,Category,Purchase Amount (USD),Location,Review Rating,Shipping Type,Payment Method,Frequency of Purchases
+1,55,Male,Blouse,Clothing,53,Kentucky,3.1,Express,Venmo,Fortnightly
+2,19,Male,Sweater,Clothing,64,Maine,3.1,Express,Cash,Fortnightly
+3,50,Male,Jeans,Clothing,73,Massachusetts,3.1,Free Shipping,Credit Card,Weekly
+4,21,Male,Sandals,Footwear,90,Rhode Island,3.5,Next Day Air,PayPal,Weekly
+5,45,Male,Blouse,Clothing,49,Oregon,2.7,Free Shipping,PayPal,Annually
+6,46,Male,Sneakers,Footwear,20,Wyoming,2.9,Standard,Venmo,Weekly
+7,63,Male,Shirt,Clothing,85,Montana,3.2,Free Shipping,Cash,Quarterly
+8,27,Male,Shorts,Clothing,34,Louisiana,3.2,Free Shipping,Credit Card,Weekly
+9,26,Male,Coat,Outerwear,97,West Virginia,2.6,Express,Venmo,Annually
+10,57,Male,Handbag,Accessories,31,Missouri,4.8,2-Day Shipping,Cash,Quarterly
+11,53,Male,Shoes,Footwear,34,Arkansas,4.1,Store Pickup,Bank Transfer,Bi-Weekly
+12,30,Male,Shorts,Clothing,68,Hawaii,4.9,Store Pickup,Bank Transfer,Fortnightly
+13,61,Male,Coat,Outerwear,72,Delaware,4.5,Express,Venmo,Fortnightly
+14,65,Male,Dress,Clothing,51,New Hampshire,4.7,Express,PayPal,Weekly
+15,64,Male,Coat,Outerwear,53,New York,4.7,Free Shipping,Debit Card,Weekly
+16,64,Male,Skirt,Clothing,81,Rhode Island,2.8,Store Pickup,PayPal,Monthly
+17,25,Male,Sunglasses,Accessories,36,Alabama,4.1,Next Day Air,Debit Card,Bi-Weekly
+18,53,Male,Dress,Clothing,38,Mississippi,4.7,2-Day Shipping,Venmo,Quarterly
+19,52,Male,Sweater,Clothing,48,Montana,4.6,Free Shipping,Cash,Weekly
+20,66,Male,Pants,Clothing,90,Rhode Island,3.3,Standard,Debit Card,Bi-Weekly
+21,21,Male,Pants,Clothing,51,Louisiana,2.8,Express,Cash,Every 3 Months
+22,31,Male,Pants,Clothing,62,North Carolina,4.1,Store Pickup,Debit Card,Quarterly
+23,56,Male,Pants,Clothing,37,California,3.2,Store Pickup,Debit Card,Annually
+24,31,Male,Pants,Clothing,88,Oklahoma,4.4,Express,Credit Card,Weekly
+25,18,Male,Jacket,Outerwear,22,Florida,2.9,Store Pickup,Debit Card,Weekly
+26,18,Male,Hoodie,Clothing,25,Texas,3.6,Express,PayPal,Annually
+27,38,Male,Jewelry,Accessories,20,Nevada,3.6,Next Day Air,Credit Card,Annually
+28,56,Male,Shorts,Clothing,56,Kentucky,5,Next Day Air,Bank Transfer,Every 3 Months
+29,54,Male,Handbag,Accessories,94,North Carolina,4.4,Free Shipping,PayPal,Every 3 Months
+30,31,Male,Dress,Clothing,48,Wyoming,4.1,Store Pickup,Credit Card,Weekly
+31,57,Male,Jewelry,Accessories,31,North Carolina,4.7,Standard,Credit Card,Monthly
+32,33,Male,Dress,Clothing,79,West Virginia,4.7,Store Pickup,Venmo,Monthly
+33,36,Male,Jacket,Outerwear,67,Kansas,4.9,Free Shipping,Venmo,Annually
+34,54,Male,Pants,Clothing,38,Colorado,3.3,Store Pickup,Cash,Quarterly
+35,36,Male,T-shirt,Clothing,91,North Dakota,4.6,2-Day Shipping,PayPal,Quarterly
+36,54,Male,Blouse,Clothing,33,Massachusetts,4,2-Day Shipping,Credit Card,Bi-Weekly
+37,35,Male,T-shirt,Clothing,69,Illinois,4.6,Free Shipping,PayPal,Fortnightly
+38,35,Male,Jeans,Clothing,45,Indiana,2.8,Store Pickup,PayPal,Weekly
+39,29,Male,Dress,Clothing,37,Florida,3.7,2-Day Shipping,Venmo,Every 3 Months
+40,70,Male,Pants,Clothing,60,Arizona,4.2,Express,Credit Card,Monthly
+41,69,Male,Handbag,Accessories,76,Louisiana,4.6,Next Day Air,Debit Card,Quarterly
+42,67,Male,Scarf,Accessories,39,Alaska,4.5,Standard,Venmo,Annually
+43,20,Male,Coat,Outerwear,100,Tennessee,4.1,Free Shipping,PayPal,Annually
+44,25,Male,Scarf,Accessories,69,Ohio,3.7,Store Pickup,PayPal,Fortnightly
+45,39,Male,Hat,Accessories,53,Kentucky,4.6,Free Shipping,PayPal,Weekly
+46,50,Male,Socks,Clothing,21,Tennessee,2.9,2-Day Shipping,PayPal,Annually
+47,57,Male,Shirt,Clothing,43,California,2.9,Store Pickup,Cash,Quarterly
+48,55,Male,Jewelry,Accessories,54,Montana,4.5,Free Shipping,Cash,Weekly
+49,42,Male,Shirt,Clothing,55,Nevada,2.7,Store Pickup,Cash,Monthly
+50,68,Male,Hoodie,Clothing,30,New Jersey,4.6,Next Day Air,Debit Card,Bi-Weekly
+51,49,Male,Blouse,Clothing,28,Maryland,3.7,Store Pickup,Debit Card,Bi-Weekly
+52,59,Male,Skirt,Clothing,59,Vermont,4.7,2-Day Shipping,Credit Card,Quarterly
+53,42,Male,T-shirt,Clothing,20,Alaska,2.6,Free Shipping,Credit Card,Weekly
+54,29,Male,Skirt,Clothing,24,Mississippi,3.9,Next Day Air,Credit Card,Weekly
+55,47,Male,Coat,Outerwear,94,New Mexico,4.2,Next Day Air,Debit Card,Bi-Weekly
+56,40,Male,Jacket,Outerwear,28,South Carolina,3,2-Day Shipping,Credit Card,Annually
+57,41,Male,Backpack,Accessories,73,Mississippi,4.7,Store Pickup,Credit Card,Weekly
+58,21,Male,Coat,Outerwear,64,West Virginia,4.4,Store Pickup,Debit Card,Fortnightly
+59,69,Male,Hoodie,Clothing,54,Missouri,4.2,Free Shipping,Venmo,Monthly
+60,63,Male,Belt,Accessories,79,Louisiana,4.6,Standard,Debit Card,Weekly
+61,50,Male,Sweater,Clothing,37,Idaho,4,Express,Cash,Weekly
+62,55,Male,Scarf,Accessories,68,Texas,4.7,Store Pickup,Credit Card,Every 3 Months
+63,30,Male,Sneakers,Footwear,21,Mississippi,3.8,Free Shipping,Credit Card,Fortnightly
+64,33,Male,Sunglasses,Accessories,79,Arizona,2.7,2-Day Shipping,Credit Card,Weekly
+65,65,Male,Boots,Footwear,83,Alabama,4.8,Standard,Debit Card,Fortnightly
+66,65,Male,Backpack,Accessories,36,New Jersey,4.8,2-Day Shipping,Venmo,Every 3 Months
+67,31,Male,Blouse,Clothing,94,Pennsylvania,4.7,2-Day Shipping,Venmo,Every 3 Months
+68,45,Male,Coat,Outerwear,33,Connecticut,4.4,Store Pickup,Debit Card,Monthly
+69,57,Male,Handbag,Accessories,46,Utah,3.9,Next Day Air,Cash,Every 3 Months
+70,48,Male,Belt,Accessories,70,Tennessee,4.4,Express,Cash,Weekly
+71,22,Male,Belt,Accessories,29,Alabama,4.2,Express,Debit Card,Every 3 Months
+72,36,Male,Dress,Clothing,48,Virginia,2.9,Express,Bank Transfer,Annually
+73,18,Male,Dress,Clothing,26,Georgia,2.9,Store Pickup,Bank Transfer,Every 3 Months
+74,48,Male,Pants,Clothing,85,Hawaii,2.7,Free Shipping,Bank Transfer,Bi-Weekly
+75,49,Male,Gloves,Accessories,58,Indiana,4.5,Express,Cash,Monthly
+76,64,Male,Scarf,Accessories,85,Utah,2.7,Free Shipping,Credit Card,Annually
+77,50,Male,Hat,Accessories,43,Delaware,4.2,Free Shipping,Venmo,Monthly
+78,22,Male,Dress,Clothing,53,Delaware,3.3,Next Day Air,Debit Card,Fortnightly
+79,50,Male,Skirt,Clothing,91,Nebraska,4.7,Free Shipping,Venmo,Fortnightly
+80,38,Male,Jacket,Outerwear,96,Iowa,2.6,2-Day Shipping,Bank Transfer,Every 3 Months
+81,19,Male,Sandals,Footwear,72,New York,3.3,Store Pickup,Credit Card,Every 3 Months
+82,67,Male,Shoes,Footwear,96,Virginia,2.6,Express,Credit Card,Every 3 Months
+83,19,Male,Pants,Clothing,28,Georgia,4,2-Day Shipping,Credit Card,Every 3 Months
+84,36,Male,Dress,Clothing,40,Texas,4.1,Standard,Bank Transfer,Weekly
+85,52,Male,Coat,Outerwear,32,Arizona,4.4,Standard,Bank Transfer,Every 3 Months
+86,53,Male,Sunglasses,Accessories,95,New Mexico,4.5,Next Day Air,Debit Card,Bi-Weekly
+87,24,Male,Hoodie,Clothing,41,Nevada,3.7,2-Day Shipping,Cash,Bi-Weekly
+88,52,Male,Shoes,Footwear,53,Ohio,3.7,2-Day Shipping,Debit Card,Fortnightly
+89,33,Male,T-shirt,Clothing,47,Wyoming,3.5,Free Shipping,Credit Card,Monthly
+90,47,Male,Jacket,Outerwear,83,California,3.6,Next Day Air,Cash,Quarterly
+91,25,Male,Hat,Accessories,48,South Carolina,2.9,Express,Credit Card,Monthly
+92,44,Male,Scarf,Accessories,99,South Carolina,4.6,Standard,Credit Card,Every 3 Months
+93,61,Male,Jacket,Outerwear,87,Texas,4.4,2-Day Shipping,Venmo,Every 3 Months
+94,37,Male,Sweater,Clothing,62,Florida,4.5,Standard,Credit Card,Weekly
+95,58,Male,Skirt,Clothing,76,Nevada,4.6,Free Shipping,Credit Card,Weekly
+96,37,Male,Sneakers,Footwear,100,Missouri,3.8,Free Shipping,PayPal,Monthly
+97,32,Male,Gloves,Accessories,73,Delaware,3.6,Express,Venmo,Every 3 Months
+98,21,Male,Shoes,Footwear,92,Virginia,4.8,Store Pickup,Cash,Annually
+99,20,Male,Jeans,Clothing,67,New York,2.6,Next Day Air,Bank Transfer,Annually
+100,26,Male,Hoodie,Clothing,40,Missouri,3.7,Express,Debit Card,Quarterly
+101,62,Male,Sunglasses,Accessories,98,South Dakota,2.7,Express,Cash,Fortnightly
+102,27,Male,Coat,Outerwear,85,North Dakota,4.6,Express,Credit Card,Bi-Weekly
+103,51,Male,Socks,Clothing,67,Oklahoma,4.8,Next Day Air,Credit Card,Quarterly
+104,54,Male,Boots,Footwear,89,West Virginia,4,Next Day Air,Venmo,Bi-Weekly
+105,55,Male,Sunglasses,Accessories,24,New Hampshire,4.4,2-Day Shipping,PayPal,Monthly
+106,69,Male,Backpack,Accessories,96,New York,3.6,Next Day Air,Bank Transfer,Annually
+107,64,Male,Jacket,Outerwear,35,Minnesota,3.7,Standard,Credit Card,Monthly
+108,28,Male,Sneakers,Footwear,67,Maryland,3.1,Next Day Air,PayPal,Fortnightly
+109,70,Male,Socks,Clothing,79,Montana,3.4,Next Day Air,Bank Transfer,Bi-Weekly
+110,58,Male,T-shirt,Clothing,85,Alabama,2.6,Next Day Air,Bank Transfer,Fortnightly
+111,56,Male,Backpack,Accessories,26,New York,4,Standard,Venmo,Fortnightly
+112,26,Male,Belt,Accessories,75,Massachusetts,5,Free Shipping,Credit Card,Annually
+113,37,Male,Gloves,Accessories,65,Florida,4.3,Free Shipping,PayPal,Bi-Weekly
+114,44,Male,Hat,Accessories,54,New Jersey,3.1,Next Day Air,PayPal,Quarterly
+115,70,Male,Coat,Outerwear,95,Massachusetts,3.7,Store Pickup,Cash,Weekly
+116,53,Male,Skirt,Clothing,94,Wyoming,3.8,Standard,Debit Card,Every 3 Months
+117,55,Male,Shoes,Footwear,86,Virginia,3.4,Free Shipping,Venmo,Annually
+118,50,Male,Sandals,Footwear,32,South Dakota,4.6,Express,Cash,Fortnightly
+119,50,Male,Sweater,Clothing,45,Kentucky,4.8,2-Day Shipping,Cash,Bi-Weekly
+120,38,Male,Coat,Outerwear,76,Wyoming,4.3,Express,Cash,Annually
+121,64,Male,Hat,Accessories,84,West Virginia,4,Express,Bank Transfer,Annually
+122,19,Male,Shorts,Clothing,72,Virginia,4.2,Standard,Cash,Fortnightly
+123,40,Male,Backpack,Accessories,40,Washington,4.8,2-Day Shipping,Cash,Fortnightly
+124,57,Male,Sweater,Clothing,89,Louisiana,3.1,Free Shipping,Cash,Weekly
+125,44,Male,Sweater,Clothing,86,Nevada,3.1,Next Day Air,PayPal,Annually
+126,49,Male,Shorts,Clothing,54,California,3.6,Next Day Air,Venmo,Every 3 Months
+127,43,Male,Shorts,Clothing,36,Mississippi,3.9,Store Pickup,Cash,Every 3 Months
+128,24,Male,Sweater,Clothing,89,Mississippi,4.8,Next Day Air,Credit Card,Weekly
+129,20,Male,Scarf,Accessories,32,California,4.7,Standard,Credit Card,Fortnightly
+130,24,Male,Dress,Clothing,67,Pennsylvania,4.2,2-Day Shipping,PayPal,Bi-Weekly
+131,44,Male,Scarf,Accessories,39,Kentucky,3.7,Next Day Air,PayPal,Fortnightly
+132,28,Male,Skirt,Clothing,29,Maine,3.9,Standard,Credit Card,Weekly
+133,30,Male,Backpack,Accessories,58,New Mexico,4.7,2-Day Shipping,PayPal,Weekly
+134,52,Male,Sweater,Clothing,65,Montana,2.5,Next Day Air,Venmo,Annually
+135,43,Male,Hat,Accessories,94,Texas,4.9,Store Pickup,Cash,Monthly
+136,43,Male,Sandals,Footwear,81,Kansas,4.1,Express,PayPal,Quarterly
+137,39,Male,Blouse,Clothing,86,South Carolina,3.3,Free Shipping,Debit Card,Quarterly
+138,68,Male,Sneakers,Footwear,43,Colorado,4.7,Free Shipping,PayPal,Weekly
+139,68,Male,Skirt,Clothing,29,Georgia,4.4,Store Pickup,Bank Transfer,Weekly
+140,49,Male,Coat,Outerwear,95,Florida,3.8,Store Pickup,Venmo,Annually
+141,63,Male,Shirt,Clothing,28,North Carolina,3.9,2-Day Shipping,Credit Card,Weekly
+142,56,Male,Gloves,Accessories,46,Virginia,4.9,Free Shipping,PayPal,Weekly
+143,37,Male,Jacket,Outerwear,58,Nebraska,3.1,Free Shipping,Credit Card,Fortnightly
+144,30,Male,Coat,Outerwear,48,Missouri,2.7,Store Pickup,PayPal,Quarterly
+145,19,Male,Shoes,Footwear,43,New Jersey,3.2,Express,Cash,Monthly
+146,24,Male,Jewelry,Accessories,95,Missouri,4.5,Standard,Debit Card,Quarterly
+147,52,Male,Skirt,Clothing,30,Colorado,4,Standard,Venmo,Fortnightly
+148,63,Male,Shoes,Footwear,64,Idaho,3.5,2-Day Shipping,Bank Transfer,Fortnightly
+149,37,Male,Gloves,Accessories,90,Wyoming,2.6,Store Pickup,Debit Card,Annually
+150,38,Male,Pants,Clothing,76,Delaware,3.2,Free Shipping,PayPal,Monthly
+151,35,Male,Boots,Footwear,96,California,4.9,Standard,Debit Card,Every 3 Months
+152,28,Male,Sunglasses,Accessories,47,North Dakota,4.5,Next Day Air,Venmo,Annually
+153,30,Male,Shirt,Clothing,85,South Carolina,4.3,Express,Venmo,Annually
+154,69,Male,Hoodie,Clothing,55,North Carolina,3.2,Standard,Debit Card,Annually
+155,41,Male,Dress,Clothing,98,Oklahoma,3.6,Next Day Air,Venmo,Quarterly
+156,63,Male,Socks,Clothing,77,Maine,4.3,Free Shipping,Bank Transfer,Quarterly
+157,35,Male,Shorts,Clothing,26,Missouri,4,Standard,Debit Card,Annually
+158,36,Male,Hat,Accessories,68,Vermont,3,Next Day Air,Bank Transfer,Fortnightly
+159,25,Male,Shirt,Clothing,73,Connecticut,4.1,Standard,Bank Transfer,Monthly
+160,58,Male,Gloves,Accessories,27,New Hampshire,3.8,Store Pickup,Bank Transfer,Every 3 Months
+161,27,Male,Gloves,Accessories,23,Texas,4.6,Free Shipping,Venmo,Monthly
+162,65,Male,Backpack,Accessories,49,North Dakota,3,Express,Venmo,Fortnightly
+163,54,Male,Sunglasses,Accessories,74,California,3,Store Pickup,PayPal,Bi-Weekly
+164,54,Male,Skirt,Clothing,67,Virginia,3.4,Standard,Debit Card,Weekly
+165,59,Male,Handbag,Accessories,65,Delaware,2.6,Free Shipping,Credit Card,Fortnightly
+166,42,Male,Handbag,Accessories,60,Kentucky,2.8,Store Pickup,Cash,Monthly
+167,46,Male,Sneakers,Footwear,31,Delaware,4,Store Pickup,Cash,Monthly
+168,33,Male,Gloves,Accessories,27,Arkansas,4,Express,Credit Card,Every 3 Months
+169,34,Male,Shoes,Footwear,80,Louisiana,3,Express,Cash,Fortnightly
+170,27,Male,Jacket,Outerwear,30,Nevada,3.3,Standard,PayPal,Every 3 Months
+171,52,Male,Shirt,Clothing,25,Wyoming,2.6,Store Pickup,Venmo,Bi-Weekly
+172,29,Male,Shorts,Clothing,35,Virginia,3.6,Store Pickup,Credit Card,Weekly
+173,54,Male,Jewelry,Accessories,67,Nebraska,3.9,Next Day Air,Credit Card,Bi-Weekly
+174,25,Male,Hat,Accessories,46,Hawaii,3.4,Standard,Cash,Annually
+175,41,Male,Shoes,Footwear,35,Vermont,3.5,Express,Venmo,Annually
+176,53,Male,Coat,Outerwear,86,Oklahoma,2.8,Next Day Air,Bank Transfer,Annually
+177,53,Male,Backpack,Accessories,81,New Hampshire,2.7,Next Day Air,Credit Card,Quarterly
+178,21,Male,Hoodie,Clothing,42,Kansas,3.7,Next Day Air,Bank Transfer,Monthly
+179,61,Male,Skirt,Clothing,43,Idaho,4.3,2-Day Shipping,PayPal,Quarterly
+180,64,Male,Boots,Footwear,31,Illinois,4.9,Store Pickup,Bank Transfer,Fortnightly
+181,51,Male,Sandals,Footwear,81,South Dakota,3.3,Store Pickup,Debit Card,Fortnightly
+182,32,Male,Pants,Clothing,61,Massachusetts,4.7,Next Day Air,Bank Transfer,Weekly
+183,38,Male,Gloves,Accessories,96,Alabama,2.8,Store Pickup,Debit Card,Annually
+184,58,Male,Skirt,Clothing,29,Ohio,3.6,2-Day Shipping,Credit Card,Weekly
+185,32,Male,Sneakers,Footwear,33,Hawaii,3,Express,Cash,Fortnightly
+186,46,Male,T-shirt,Clothing,32,Wisconsin,4.5,Store Pickup,Bank Transfer,Fortnightly
+187,39,Male,Backpack,Accessories,56,Minnesota,2.9,Standard,Debit Card,Annually
+188,19,Male,Shoes,Footwear,94,Georgia,3.3,Store Pickup,Bank Transfer,Bi-Weekly
+189,50,Male,Hoodie,Clothing,53,Arkansas,3.1,Express,Bank Transfer,Bi-Weekly
+190,36,Male,Blouse,Clothing,82,West Virginia,4.4,Next Day Air,Credit Card,Weekly
+191,65,Male,Coat,Outerwear,70,Indiana,3,Free Shipping,Venmo,Quarterly
+192,64,Male,Hat,Accessories,76,Utah,3.9,Free Shipping,Cash,Every 3 Months
+193,46,Male,Shoes,Footwear,29,Nebraska,2.9,Express,PayPal,Bi-Weekly
+194,36,Male,Belt,Accessories,100,North Dakota,3,Standard,Venmo,Annually
+195,51,Male,Backpack,Accessories,94,Missouri,3.1,Express,Debit Card,Quarterly
+196,51,Male,Jacket,Outerwear,25,New York,4.3,Free Shipping,Credit Card,Monthly
+197,38,Male,Boots,Footwear,88,Washington,3.9,Next Day Air,Credit Card,Fortnightly
+198,59,Male,Scarf,Accessories,78,South Carolina,3.2,2-Day Shipping,Credit Card,Monthly
+199,57,Male,Jewelry,Accessories,45,Utah,4.8,Standard,Credit Card,Fortnightly
+200,54,Male,Hat,Accessories,73,Idaho,3.8,Express,Cash,Weekly
+201,25,Male,Dress,Clothing,61,Pennsylvania,3.3,Next Day Air,Venmo,Monthly
+202,69,Male,Blouse,Clothing,22,Missouri,4.3,Free Shipping,Bank Transfer,Annually
+203,57,Male,Hat,Accessories,38,Nebraska,2.7,Express,Venmo,Annually
+204,70,Male,Scarf,Accessories,38,Indiana,3.2,Next Day Air,Bank Transfer,Weekly
+205,24,Male,Sneakers,Footwear,100,Arizona,4,Store Pickup,Cash,Bi-Weekly
+206,67,Male,Shirt,Clothing,64,Hawaii,3,Standard,PayPal,Weekly
+207,24,Male,T-shirt,Clothing,55,Wisconsin,4.2,Free Shipping,Venmo,Fortnightly
+208,62,Male,Gloves,Accessories,91,Rhode Island,2.9,Express,Bank Transfer,Bi-Weekly
+209,57,Male,Skirt,Clothing,38,Wisconsin,4.1,Store Pickup,Credit Card,Monthly
+210,55,Male,Sandals,Footwear,97,Minnesota,3.2,Store Pickup,Cash,Every 3 Months
+211,45,Male,Jacket,Outerwear,22,Vermont,3,2-Day Shipping,PayPal,Fortnightly
+212,69,Male,Skirt,Clothing,92,South Dakota,4.2,2-Day Shipping,Debit Card,Fortnightly
+213,67,Male,Handbag,Accessories,84,Virginia,4.2,Express,Debit Card,Annually
+214,30,Male,Handbag,Accessories,93,Nevada,4.4,Store Pickup,Debit Card,Every 3 Months
+215,24,Male,Jacket,Outerwear,50,Hawaii,4.2,Next Day Air,Cash,Every 3 Months
+216,62,Male,Scarf,Accessories,64,New Jersey,2.8,2-Day Shipping,PayPal,Bi-Weekly
+217,43,Male,Shorts,Clothing,61,Massachusetts,3.7,Free Shipping,Venmo,Weekly
+218,35,Male,Sunglasses,Accessories,48,Oklahoma,3.5,Next Day Air,Bank Transfer,Annually
+219,28,Male,T-shirt,Clothing,45,California,2.9,Store Pickup,Credit Card,Quarterly
+220,32,Male,Belt,Accessories,88,Nevada,3,Free Shipping,Cash,Fortnightly
+221,39,Male,Sneakers,Footwear,57,Arizona,3.7,Express,Debit Card,Fortnightly
+222,28,Male,Hat,Accessories,68,North Carolina,4.4,Store Pickup,Bank Transfer,Quarterly
+223,47,Male,Gloves,Accessories,94,New York,4.5,2-Day Shipping,PayPal,Fortnightly
+224,20,Male,Pants,Clothing,41,Wyoming,4.8,Free Shipping,PayPal,Annually
+225,63,Male,Socks,Clothing,83,South Dakota,2.9,Free Shipping,Cash,Every 3 Months
+226,25,Male,Jacket,Outerwear,22,Arkansas,3.2,Next Day Air,Bank Transfer,Annually
+227,29,Male,Shoes,Footwear,74,Texas,3.3,Free Shipping,PayPal,Monthly
+228,50,Male,Jeans,Clothing,90,Rhode Island,4.2,Standard,Venmo,Fortnightly
+229,18,Male,Socks,Clothing,79,New Hampshire,2.9,Store Pickup,Credit Card,Annually
+230,70,Male,Sandals,Footwear,28,Ohio,4.6,Next Day Air,PayPal,Every 3 Months
+231,66,Male,Scarf,Accessories,88,Utah,4.1,Standard,Credit Card,Annually
+232,28,Male,Blouse,Clothing,26,Tennessee,3.1,2-Day Shipping,Debit Card,Every 3 Months
+233,54,Male,Jewelry,Accessories,27,Hawaii,4.2,Express,Bank Transfer,Bi-Weekly
+234,19,Male,Sweater,Clothing,83,Arizona,4.5,Next Day Air,Bank Transfer,Every 3 Months
+235,20,Male,Gloves,Accessories,39,South Dakota,3.7,Next Day Air,Credit Card,Weekly
+236,43,Male,Sunglasses,Accessories,89,New Jersey,3.7,Free Shipping,Debit Card,Quarterly
+237,38,Male,Coat,Outerwear,68,North Dakota,3.4,Next Day Air,PayPal,Fortnightly
+238,50,Male,Dress,Clothing,90,Iowa,3,Store Pickup,Debit Card,Fortnightly
+239,64,Male,Skirt,Clothing,34,Ohio,4.2,Free Shipping,Cash,Annually
+240,49,Male,Pants,Clothing,51,Vermont,2.9,Express,Credit Card,Bi-Weekly
+241,47,Male,Sweater,Clothing,45,Montana,3.5,Free Shipping,Bank Transfer,Fortnightly
+242,36,Male,Hoodie,Clothing,88,Delaware,4.1,Free Shipping,Venmo,Bi-Weekly
+243,55,Male,Coat,Outerwear,85,New York,4.3,Store Pickup,Debit Card,Every 3 Months
+244,25,Male,Jewelry,Accessories,100,Kentucky,2.8,2-Day Shipping,Debit Card,Monthly
+245,53,Male,Belt,Accessories,42,Oregon,4.9,2-Day Shipping,PayPal,Weekly
+246,49,Male,Sandals,Footwear,53,Rhode Island,3.3,Next Day Air,Venmo,Fortnightly
+247,35,Male,Sunglasses,Accessories,86,Nevada,3.2,Express,Venmo,Bi-Weekly
+248,29,Male,Sweater,Clothing,66,Montana,4.4,Standard,Debit Card,Weekly
+249,47,Male,Belt,Accessories,100,Pennsylvania,4.8,Express,PayPal,Weekly
+250,53,Male,Handbag,Accessories,47,Alaska,4.2,Standard,Credit Card,Annually
+251,33,Male,Skirt,Clothing,25,Mississippi,4,Express,Bank Transfer,Weekly
+252,21,Male,Handbag,Accessories,51,Wyoming,2.5,Standard,PayPal,Annually
+253,32,Male,Shorts,Clothing,41,Delaware,3.9,Free Shipping,Venmo,Fortnightly
+254,52,Male,Boots,Footwear,73,Oklahoma,4.9,2-Day Shipping,Bank Transfer,Bi-Weekly
+255,67,Male,Sunglasses,Accessories,42,Indiana,3.5,Store Pickup,PayPal,Bi-Weekly
+256,43,Male,Scarf,Accessories,20,Maryland,4.2,Free Shipping,Debit Card,Annually
+257,58,Male,Jewelry,Accessories,30,South Dakota,4.7,Express,Credit Card,Every 3 Months
+258,20,Male,Handbag,Accessories,53,West Virginia,4.5,Express,Credit Card,Quarterly
+259,61,Male,Gloves,Accessories,74,Alabama,2.8,Express,Cash,Quarterly
+260,32,Male,Jeans,Clothing,57,Louisiana,2.9,Standard,Debit Card,Annually
+261,38,Male,Hat,Accessories,57,Montana,3.2,2-Day Shipping,Credit Card,Every 3 Months
+262,21,Male,Jeans,Clothing,77,California,4.9,Standard,Credit Card,Annually
+263,37,Male,Pants,Clothing,40,Hawaii,3.7,Next Day Air,Debit Card,Annually
+264,27,Male,Shorts,Clothing,46,Iowa,4.3,Store Pickup,Venmo,Monthly
+265,36,Male,Pants,Clothing,78,Colorado,3.9,Store Pickup,Cash,Annually
+266,32,Male,Backpack,Accessories,59,Michigan,3.2,2-Day Shipping,Bank Transfer,Bi-Weekly
+267,51,Male,Jewelry,Accessories,75,Louisiana,3.1,Express,Credit Card,Weekly
+268,64,Male,Sweater,Clothing,54,Maryland,3.9,2-Day Shipping,Venmo,Annually
+269,68,Male,Shoes,Footwear,42,Georgia,2.6,Store Pickup,Cash,Monthly
+270,68,Male,Blouse,Clothing,44,Georgia,3.3,Next Day Air,Cash,Bi-Weekly
+271,33,Male,Jeans,Clothing,52,North Dakota,4.6,Free Shipping,Bank Transfer,Annually
+272,65,Male,Sunglasses,Accessories,69,Maryland,4.6,Express,Credit Card,Fortnightly
+273,48,Male,Jewelry,Accessories,26,Oregon,4.4,2-Day Shipping,Debit Card,Bi-Weekly
+274,69,Male,Coat,Outerwear,33,North Dakota,4.2,Express,Debit Card,Quarterly
+275,59,Male,Jewelry,Accessories,32,Maryland,3,Express,Cash,Bi-Weekly
+276,48,Male,Backpack,Accessories,85,Virginia,4,Express,Credit Card,Weekly
+277,25,Male,Skirt,Clothing,30,South Dakota,3.5,Express,Bank Transfer,Fortnightly
+278,29,Male,Shirt,Clothing,29,Georgia,3,Store Pickup,Bank Transfer,Bi-Weekly
+279,57,Male,Sweater,Clothing,95,Hawaii,3.7,Express,Debit Card,Annually
+280,23,Male,Sneakers,Footwear,69,Arkansas,4,Standard,Bank Transfer,Monthly
+281,45,Male,Sandals,Footwear,69,Montana,4.2,2-Day Shipping,Cash,Bi-Weekly
+282,38,Male,Belt,Accessories,61,Oklahoma,2.5,Standard,Debit Card,Bi-Weekly
+283,21,Male,Skirt,Clothing,94,Minnesota,3,2-Day Shipping,Cash,Monthly
+284,32,Male,Sweater,Clothing,30,Montana,3.2,Next Day Air,Venmo,Annually
+285,63,Male,Skirt,Clothing,45,Ohio,3.5,Standard,PayPal,Quarterly
+286,29,Male,Handbag,Accessories,39,Kentucky,4.8,Express,Debit Card,Bi-Weekly
+287,27,Male,Jewelry,Accessories,51,Nebraska,2.6,Store Pickup,Debit Card,Annually
+288,56,Male,Scarf,Accessories,37,Delaware,3.4,2-Day Shipping,Venmo,Fortnightly
+289,30,Male,T-shirt,Clothing,62,North Carolina,3.7,2-Day Shipping,Venmo,Bi-Weekly
+290,49,Male,Coat,Outerwear,85,New York,4.5,2-Day Shipping,Credit Card,Monthly
+291,58,Male,T-shirt,Clothing,33,Colorado,3.7,Standard,PayPal,Weekly
+292,57,Male,Dress,Clothing,26,Delaware,3.3,Next Day Air,Bank Transfer,Monthly
+293,60,Male,Shoes,Footwear,99,Utah,4.7,Free Shipping,Cash,Quarterly
+294,69,Male,Handbag,Accessories,39,Connecticut,2.7,Express,PayPal,Annually
+295,70,Male,Skirt,Clothing,20,New Jersey,4.6,Store Pickup,Credit Card,Every 3 Months
+296,53,Male,Sunglasses,Accessories,42,West Virginia,2.7,Store Pickup,Credit Card,Quarterly
+297,25,Male,Sandals,Footwear,74,Indiana,4.8,2-Day Shipping,Credit Card,Weekly
+298,48,Male,Shoes,Footwear,26,Delaware,4.4,Standard,Credit Card,Bi-Weekly
+299,69,Male,T-shirt,Clothing,53,Maryland,4,Standard,Venmo,Every 3 Months
+300,25,Male,Sneakers,Footwear,80,Pennsylvania,3.2,Next Day Air,PayPal,Fortnightly
+301,29,Male,Hat,Accessories,98,Iowa,4.4,Store Pickup,PayPal,Weekly
+302,46,Male,Skirt,Clothing,95,Pennsylvania,3.8,Standard,Credit Card,Every 3 Months
+303,37,Male,Sweater,Clothing,44,Delaware,3.6,Express,Bank Transfer,Every 3 Months
+304,20,Male,Sandals,Footwear,60,Oregon,3.3,Next Day Air,Venmo,Weekly
+305,40,Male,Dress,Clothing,84,Oregon,3.4,Next Day Air,Credit Card,Bi-Weekly
+306,60,Male,Sweater,Clothing,59,Utah,3.5,2-Day Shipping,PayPal,Annually
+307,26,Male,Jacket,Outerwear,49,North Dakota,3.6,Express,Cash,Annually
+308,29,Male,Gloves,Accessories,32,Florida,3.2,Free Shipping,Credit Card,Every 3 Months
+309,66,Male,Handbag,Accessories,29,Maryland,3.7,Standard,Venmo,Bi-Weekly
+310,66,Male,Dress,Clothing,22,Minnesota,4.5,Standard,Cash,Fortnightly
+311,56,Male,Pants,Clothing,85,Montana,4.6,Standard,Cash,Fortnightly
+312,69,Male,Jeans,Clothing,52,Rhode Island,4.1,Store Pickup,Bank Transfer,Monthly
+313,38,Male,Pants,Clothing,89,Massachusetts,3.4,Next Day Air,PayPal,Annually
+314,42,Male,Dress,Clothing,77,Vermont,3.7,Express,Credit Card,Every 3 Months
+315,30,Male,Pants,Clothing,24,New Jersey,3.3,Store Pickup,Debit Card,Every 3 Months
+316,66,Male,Jewelry,Accessories,24,Wisconsin,4.5,Express,Debit Card,Annually
+317,36,Male,Handbag,Accessories,22,California,3.3,Free Shipping,Venmo,Monthly
+318,58,Male,Sweater,Clothing,82,West Virginia,4.3,Standard,Cash,Every 3 Months
+319,45,Male,Backpack,Accessories,67,South Dakota,2.5,Standard,Cash,Annually
+320,47,Male,Shorts,Clothing,74,Maine,2.6,Standard,Cash,Every 3 Months
+321,66,Male,Jewelry,Accessories,72,Kansas,4.9,Standard,Debit Card,Quarterly
+322,41,Male,Sneakers,Footwear,36,Vermont,4.7,Free Shipping,Debit Card,Quarterly
+323,41,Male,Belt,Accessories,95,Tennessee,3,Standard,Credit Card,Monthly
+324,66,Male,Hoodie,Clothing,78,Tennessee,3.5,Next Day Air,PayPal,Bi-Weekly
+325,37,Male,Shirt,Clothing,82,Wyoming,4.8,Standard,Venmo,Quarterly
+326,70,Male,Pants,Clothing,70,Vermont,4.3,Free Shipping,Debit Card,Annually
+327,62,Male,Scarf,Accessories,41,New Jersey,3.2,Store Pickup,Bank Transfer,Weekly
+328,61,Male,Coat,Outerwear,42,Iowa,3.1,Free Shipping,PayPal,Weekly
+329,48,Male,Coat,Outerwear,50,Florida,2.8,Free Shipping,Credit Card,Weekly
+330,70,Male,Socks,Clothing,31,Nevada,2.9,2-Day Shipping,Bank Transfer,Monthly
+331,46,Male,Sweater,Clothing,51,North Dakota,3.7,Express,Venmo,Bi-Weekly
+332,31,Male,Shirt,Clothing,98,Florida,3.3,Store Pickup,PayPal,Quarterly
+333,19,Male,Shirt,Clothing,86,New York,2.8,2-Day Shipping,Credit Card,Monthly
+334,39,Male,Sweater,Clothing,64,Alaska,4.5,Standard,Bank Transfer,Bi-Weekly
+335,41,Male,Blouse,Clothing,46,Kansas,2.6,Next Day Air,Credit Card,Annually
+336,20,Male,Sweater,Clothing,85,Oregon,3.7,Standard,Venmo,Every 3 Months
+337,36,Male,Hat,Accessories,81,Rhode Island,4.4,Express,PayPal,Annually
+338,32,Male,Sweater,Clothing,59,New Mexico,4.3,2-Day Shipping,Bank Transfer,Annually
+339,69,Male,Hoodie,Clothing,79,Massachusetts,3.5,Express,Cash,Weekly
+340,40,Male,Shorts,Clothing,33,Pennsylvania,3.8,2-Day Shipping,Credit Card,Every 3 Months
+341,40,Male,Shorts,Clothing,47,New Jersey,3.5,Express,Venmo,Every 3 Months
+342,20,Male,Hat,Accessories,20,Utah,4.6,Store Pickup,Debit Card,Bi-Weekly
+343,64,Male,Coat,Outerwear,36,Kentucky,2.6,Next Day Air,Credit Card,Every 3 Months
+344,27,Male,Sandals,Footwear,39,Nebraska,4.4,Next Day Air,Venmo,Monthly
+345,24,Male,Skirt,Clothing,71,Virginia,4,Standard,Debit Card,Monthly
+346,48,Male,Shoes,Footwear,59,Wyoming,4.4,Next Day Air,Bank Transfer,Annually
+347,49,Male,Jeans,Clothing,50,New Mexico,4.7,Next Day Air,Cash,Weekly
+348,36,Male,Sandals,Footwear,41,Oregon,3.9,Store Pickup,PayPal,Fortnightly
+349,56,Male,Blouse,Clothing,59,South Carolina,2.7,Free Shipping,PayPal,Fortnightly
+350,37,Male,Hat,Accessories,87,Arizona,3.7,2-Day Shipping,Bank Transfer,Bi-Weekly
+351,42,Male,Sweater,Clothing,68,Kentucky,2.6,2-Day Shipping,Bank Transfer,Fortnightly
+352,28,Male,Skirt,Clothing,90,New York,3.9,Standard,Debit Card,Bi-Weekly
+353,27,Male,Jeans,Clothing,71,Texas,4.9,Next Day Air,Cash,Every 3 Months
+354,63,Male,Sneakers,Footwear,64,Missouri,4.1,Store Pickup,Debit Card,Monthly
+355,58,Male,Jewelry,Accessories,76,Pennsylvania,3,Free Shipping,Venmo,Weekly
+356,37,Male,Jewelry,Accessories,42,Oregon,4.1,2-Day Shipping,PayPal,Every 3 Months
+357,56,Male,Pants,Clothing,80,Nevada,3.8,Standard,Cash,Weekly
+358,18,Male,Belt,Accessories,56,Arkansas,4,Standard,Credit Card,Bi-Weekly
+359,48,Male,Hat,Accessories,25,Minnesota,3.6,Express,Credit Card,Every 3 Months
+360,31,Male,Sneakers,Footwear,74,Georgia,3,Store Pickup,Credit Card,Every 3 Months
+361,51,Male,Pants,Clothing,30,Rhode Island,3,Standard,Debit Card,Fortnightly
+362,65,Male,T-shirt,Clothing,96,Nevada,2.6,Free Shipping,Cash,Annually
+363,53,Male,Sneakers,Footwear,64,Texas,3.4,Free Shipping,Venmo,Fortnightly
+364,55,Male,Shorts,Clothing,88,Florida,3.1,Free Shipping,Bank Transfer,Fortnightly
+365,62,Male,Shoes,Footwear,88,North Dakota,3,Free Shipping,Venmo,Every 3 Months
+366,55,Male,Gloves,Accessories,88,West Virginia,3.7,Standard,PayPal,Quarterly
+367,64,Male,Socks,Clothing,36,Nebraska,3.5,Store Pickup,Venmo,Fortnightly
+368,52,Male,Dress,Clothing,40,Tennessee,2.8,Store Pickup,Bank Transfer,Monthly
+369,24,Male,Handbag,Accessories,39,Oklahoma,4.5,Standard,Cash,Monthly
+370,38,Male,Belt,Accessories,40,Wisconsin,3.3,Store Pickup,PayPal,Quarterly
+371,59,Male,Scarf,Accessories,34,Oregon,3.4,Express,PayPal,Weekly
+372,27,Male,Sneakers,Footwear,83,North Carolina,3.2,2-Day Shipping,PayPal,Monthly
+373,24,Male,Sweater,Clothing,85,Pennsylvania,3.7,Standard,Debit Card,Weekly
+374,23,Male,Coat,Outerwear,27,North Dakota,4.6,Express,Venmo,Bi-Weekly
+375,69,Male,Jewelry,Accessories,78,Ohio,5,Store Pickup,Bank Transfer,Monthly
+376,59,Male,Sunglasses,Accessories,32,Oklahoma,4.4,Standard,Debit Card,Quarterly
+377,51,Male,Shoes,Footwear,51,South Carolina,4.9,Express,Venmo,Bi-Weekly
+378,63,Male,Scarf,Accessories,32,Maine,4.1,Standard,Credit Card,Every 3 Months
+379,54,Male,Dress,Clothing,62,Nevada,4.9,Next Day Air,Credit Card,Monthly
+380,32,Male,T-shirt,Clothing,29,Montana,4.7,2-Day Shipping,Debit Card,Bi-Weekly
+381,39,Male,Backpack,Accessories,69,New Hampshire,3,Store Pickup,Bank Transfer,Weekly
+382,66,Male,Jewelry,Accessories,25,Maine,3.4,Store Pickup,Credit Card,Every 3 Months
+383,28,Male,Jeans,Clothing,76,California,3.2,Store Pickup,PayPal,Quarterly
+384,50,Male,Sunglasses,Accessories,77,West Virginia,2.9,Standard,PayPal,Quarterly
+385,70,Male,Sweater,Clothing,33,California,4.5,2-Day Shipping,Venmo,Annually
+386,67,Male,Shorts,Clothing,93,West Virginia,2.7,Next Day Air,Credit Card,Bi-Weekly
+387,64,Male,Jewelry,Accessories,39,Louisiana,3.4,Express,PayPal,Quarterly
+388,45,Male,Coat,Outerwear,93,Georgia,4.6,Store Pickup,PayPal,Fortnightly
+389,22,Male,Handbag,Accessories,82,Washington,2.7,Store Pickup,PayPal,Quarterly
+390,27,Male,Boots,Footwear,42,Virginia,4.2,Standard,Bank Transfer,Monthly
+391,25,Male,Gloves,Accessories,71,Indiana,3.2,2-Day Shipping,PayPal,Annually
+392,37,Male,Sweater,Clothing,86,Minnesota,4.8,Standard,Cash,Fortnightly
+393,26,Male,T-shirt,Clothing,82,Idaho,3.3,Next Day Air,Credit Card,Annually
+394,33,Male,Shoes,Footwear,65,Vermont,4.2,Standard,PayPal,Fortnightly
+395,43,Male,Scarf,Accessories,29,North Dakota,4.8,Store Pickup,Debit Card,Bi-Weekly
+396,37,Male,Sneakers,Footwear,65,Rhode Island,4.9,Store Pickup,PayPal,Annually
+397,46,Male,Dress,Clothing,88,South Carolina,3.9,Standard,Bank Transfer,Annually
+398,22,Male,Belt,Accessories,46,Mississippi,3,Free Shipping,Cash,Annually
+399,20,Male,Boots,Footwear,67,Montana,4.6,Free Shipping,Debit Card,Every 3 Months
+400,60,Male,Scarf,Accessories,35,Idaho,3.5,2-Day Shipping,Debit Card,Monthly
+401,39,Male,Boots,Footwear,66,Utah,4.8,Free Shipping,PayPal,Fortnightly
+402,43,Male,T-shirt,Clothing,91,Oklahoma,4.8,Standard,Cash,Quarterly
+403,31,Male,Backpack,Accessories,78,California,3,Express,PayPal,Monthly
+404,19,Male,Sneakers,Footwear,45,Nevada,4.5,Next Day Air,Bank Transfer,Annually
+405,35,Male,T-shirt,Clothing,93,Delaware,4.8,Store Pickup,Credit Card,Monthly
+406,41,Male,Jeans,Clothing,74,South Carolina,3.8,Standard,Cash,Annually
+407,52,Male,Gloves,Accessories,55,Maryland,4.6,Express,Cash,Monthly
+408,45,Male,Hoodie,Clothing,76,North Carolina,3.1,Next Day Air,Credit Card,Bi-Weekly
+409,34,Male,Sneakers,Footwear,66,Alabama,3.4,Express,Cash,Fortnightly
+410,35,Male,Shorts,Clothing,51,Minnesota,3.3,2-Day Shipping,Bank Transfer,Monthly
+411,29,Male,Sweater,Clothing,26,Virginia,4.8,2-Day Shipping,Credit Card,Quarterly
+412,59,Male,Jeans,Clothing,29,Michigan,2.8,Express,PayPal,Annually
+413,24,Male,Jacket,Outerwear,74,Maine,3.1,Store Pickup,Bank Transfer,Weekly
+414,70,Male,Jewelry,Accessories,99,Nevada,4.6,Free Shipping,Cash,Monthly
+415,29,Male,Backpack,Accessories,88,Wyoming,2.6,Store Pickup,Debit Card,Weekly
+416,67,Male,Coat,Outerwear,31,Connecticut,2.6,Express,Bank Transfer,Monthly
+417,36,Male,Belt,Accessories,55,Oregon,3.8,Free Shipping,Bank Transfer,Fortnightly
+418,23,Male,Sandals,Footwear,81,Mississippi,4.5,Free Shipping,Debit Card,Quarterly
+419,18,Male,Sweater,Clothing,73,Illinois,3,Standard,Venmo,Bi-Weekly
+420,53,Male,Shorts,Clothing,91,Utah,3.5,Free Shipping,Credit Card,Every 3 Months
+421,32,Male,Socks,Clothing,54,North Carolina,3.8,Free Shipping,Debit Card,Bi-Weekly
+422,38,Male,Shirt,Clothing,40,Kentucky,3.5,Standard,Cash,Bi-Weekly
+423,47,Male,Pants,Clothing,59,Minnesota,3.1,Store Pickup,Debit Card,Annually
+424,46,Male,Scarf,Accessories,26,New York,3,Store Pickup,Credit Card,Bi-Weekly
+425,66,Male,Sweater,Clothing,23,Illinois,4.3,Standard,PayPal,Fortnightly
+426,40,Male,Jeans,Clothing,87,North Dakota,3.3,Store Pickup,Credit Card,Quarterly
+427,43,Male,Pants,Clothing,71,Louisiana,4.7,Express,Credit Card,Quarterly
+428,58,Male,Backpack,Accessories,91,Illinois,4.5,Store Pickup,Credit Card,Quarterly
+429,21,Male,Coat,Outerwear,64,Wyoming,2.9,Free Shipping,Debit Card,Fortnightly
+430,42,Male,Sandals,Footwear,94,Washington,4.1,2-Day Shipping,Cash,Fortnightly
+431,24,Male,Shirt,Clothing,40,Texas,3.5,Store Pickup,Debit Card,Annually
+432,43,Male,Hat,Accessories,76,New Hampshire,3.4,Store Pickup,Cash,Fortnightly
+433,47,Male,Shirt,Clothing,86,Indiana,3.3,Free Shipping,Venmo,Weekly
+434,49,Male,Skirt,Clothing,92,Alabama,3.2,Store Pickup,Credit Card,Fortnightly
+435,50,Male,Shoes,Footwear,52,Oklahoma,4,Store Pickup,PayPal,Every 3 Months
+436,51,Male,Coat,Outerwear,28,Montana,3.6,Next Day Air,Bank Transfer,Monthly
+437,40,Male,Pants,Clothing,46,Tennessee,4.6,Free Shipping,Bank Transfer,Weekly
+438,45,Male,Jewelry,Accessories,50,New Mexico,2.6,Next Day Air,PayPal,Annually
+439,52,Male,Belt,Accessories,23,Iowa,4.3,Express,Credit Card,Fortnightly
+440,62,Male,Jacket,Outerwear,50,Idaho,3.4,Free Shipping,Cash,Monthly
+441,20,Male,Shirt,Clothing,89,Oklahoma,3.5,Store Pickup,Debit Card,Fortnightly
+442,43,Male,Hoodie,Clothing,81,Florida,4.2,Standard,Credit Card,Annually
+443,29,Male,Sunglasses,Accessories,69,Michigan,3.5,Store Pickup,Credit Card,Quarterly
+444,22,Male,Sunglasses,Accessories,67,Hawaii,3.6,Free Shipping,PayPal,Annually
+445,48,Male,Dress,Clothing,20,California,4.3,Store Pickup,Debit Card,Annually
+446,42,Male,Boots,Footwear,29,Iowa,4.9,Standard,Venmo,Annually
+447,19,Male,Shirt,Clothing,74,West Virginia,4.1,Store Pickup,Venmo,Monthly
+448,60,Male,Shorts,Clothing,82,Washington,3.6,Standard,Bank Transfer,Every 3 Months
+449,32,Male,Gloves,Accessories,23,Missouri,3.4,Next Day Air,Bank Transfer,Fortnightly
+450,26,Male,Jewelry,Accessories,45,New York,2.9,2-Day Shipping,Bank Transfer,Monthly
+451,25,Male,Boots,Footwear,21,Connecticut,2.7,Store Pickup,Credit Card,Monthly
+452,66,Male,Jewelry,Accessories,31,Virginia,4.3,Express,Credit Card,Fortnightly
+453,45,Male,Pants,Clothing,45,Missouri,3.3,Express,PayPal,Fortnightly
+454,54,Male,Jewelry,Accessories,56,Nebraska,2.8,Next Day Air,Credit Card,Weekly
+455,37,Male,Jacket,Outerwear,97,New Jersey,3.2,Next Day Air,Cash,Bi-Weekly
+456,54,Male,Blouse,Clothing,100,Utah,3.6,Store Pickup,Debit Card,Fortnightly
+457,50,Male,Blouse,Clothing,96,North Carolina,4,2-Day Shipping,Credit Card,Quarterly
+458,25,Male,Gloves,Accessories,99,Rhode Island,4.9,Next Day Air,Debit Card,Every 3 Months
+459,47,Male,Shorts,Clothing,91,Arkansas,4,2-Day Shipping,PayPal,Monthly
+460,63,Male,Hat,Accessories,30,Maryland,3.8,Standard,PayPal,Fortnightly
+461,64,Male,Shoes,Footwear,65,South Carolina,3.7,Store Pickup,Bank Transfer,Weekly
+462,18,Male,Boots,Footwear,93,Ohio,3.9,Express,Venmo,Weekly
+463,59,Male,Jacket,Outerwear,81,Illinois,3.3,Express,Venmo,Every 3 Months
+464,37,Male,Jewelry,Accessories,81,Georgia,2.7,Standard,Venmo,Weekly
+465,23,Male,Sunglasses,Accessories,52,Alabama,4.7,Next Day Air,PayPal,Monthly
+466,54,Male,Skirt,Clothing,88,Oklahoma,2.8,Next Day Air,Cash,Quarterly
+467,38,Male,Jeans,Clothing,24,Vermont,4.6,Free Shipping,PayPal,Weekly
+468,19,Male,Backpack,Accessories,51,Nebraska,4.5,2-Day Shipping,Debit Card,Every 3 Months
+469,34,Male,Backpack,Accessories,38,Georgia,5,Free Shipping,Cash,Quarterly
+470,21,Male,Shorts,Clothing,46,Alabama,4.1,2-Day Shipping,Debit Card,Bi-Weekly
+471,50,Male,Dress,Clothing,63,Minnesota,4.6,Express,Cash,Every 3 Months
+472,55,Male,Scarf,Accessories,72,Missouri,4.9,2-Day Shipping,Bank Transfer,Quarterly
+473,20,Male,Jeans,Clothing,39,Georgia,3.9,Free Shipping,Bank Transfer,Quarterly
+474,34,Male,Coat,Outerwear,42,West Virginia,3.9,Store Pickup,PayPal,Every 3 Months
+475,62,Male,Sweater,Clothing,76,Arkansas,2.6,2-Day Shipping,Cash,Quarterly
+476,21,Male,Sneakers,Footwear,66,Ohio,2.7,Free Shipping,Debit Card,Annually
+477,21,Male,Scarf,Accessories,90,Connecticut,3.5,Free Shipping,Debit Card,Fortnightly
+478,42,Male,Sweater,Clothing,56,North Dakota,3.7,Free Shipping,Debit Card,Weekly
+479,35,Male,Jewelry,Accessories,43,Kansas,3.2,Free Shipping,Venmo,Annually
+480,39,Male,Handbag,Accessories,84,Iowa,3.3,Store Pickup,Venmo,Monthly
+481,68,Male,Hoodie,Clothing,88,Vermont,4.8,Standard,Debit Card,Bi-Weekly
+482,46,Male,Hat,Accessories,88,Wisconsin,3.2,2-Day Shipping,PayPal,Fortnightly
+483,41,Male,Belt,Accessories,42,Connecticut,2.5,2-Day Shipping,Venmo,Annually
+484,23,Male,Hoodie,Clothing,73,Oklahoma,3.9,Store Pickup,Debit Card,Weekly
+485,68,Male,Hat,Accessories,73,Missouri,4.7,Free Shipping,Bank Transfer,Quarterly
+486,48,Male,Shoes,Footwear,44,Tennessee,2.6,Next Day Air,Debit Card,Fortnightly
+487,38,Male,Sandals,Footwear,63,New Mexico,2.8,Store Pickup,Venmo,Every 3 Months
+488,41,Male,Jacket,Outerwear,68,Iowa,4.4,Store Pickup,Credit Card,Quarterly
+489,58,Male,Sweater,Clothing,29,Maine,4.6,Standard,Venmo,Weekly
+490,49,Male,Socks,Clothing,85,South Dakota,3.2,Standard,PayPal,Annually
+491,57,Male,Sneakers,Footwear,42,Colorado,4.2,2-Day Shipping,Cash,Monthly
+492,49,Male,Coat,Outerwear,69,Vermont,3.7,2-Day Shipping,Credit Card,Bi-Weekly
+493,50,Male,Shirt,Clothing,62,Michigan,3.9,Standard,Debit Card,Weekly
+494,28,Male,Backpack,Accessories,48,Nevada,4.7,Store Pickup,Cash,Bi-Weekly
+495,38,Male,Boots,Footwear,68,Indiana,4.5,Express,Debit Card,Weekly
+496,33,Male,Handbag,Accessories,36,Michigan,3.3,Free Shipping,Debit Card,Fortnightly
+497,30,Male,Dress,Clothing,63,California,3.3,Express,Venmo,Fortnightly
+498,43,Male,Sneakers,Footwear,39,Oklahoma,4.6,Free Shipping,Cash,Weekly
+499,43,Male,Boots,Footwear,78,Iowa,3.6,Free Shipping,Bank Transfer,Monthly
+500,36,Male,Shoes,Footwear,99,Rhode Island,4.8,Express,PayPal,Monthly
+501,36,Male,T-shirt,Clothing,31,Washington,4.8,Next Day Air,Venmo,Every 3 Months
+502,64,Male,Boots,Footwear,45,Florida,2.9,Next Day Air,Venmo,Annually
+503,59,Male,Pants,Clothing,30,South Carolina,2.8,Express,PayPal,Fortnightly
+504,55,Male,Shoes,Footwear,24,West Virginia,3.2,Next Day Air,Bank Transfer,Quarterly
+505,42,Male,Shoes,Footwear,22,Missouri,3.9,Free Shipping,PayPal,Annually
+506,61,Male,T-shirt,Clothing,63,Maine,4.3,Express,Cash,Bi-Weekly
+507,28,Male,Scarf,Accessories,40,Georgia,2.7,2-Day Shipping,Debit Card,Annually
+508,65,Male,Shorts,Clothing,20,Maine,5,Store Pickup,Debit Card,Fortnightly
+509,27,Male,Jewelry,Accessories,20,Illinois,3.7,Store Pickup,PayPal,Quarterly
+510,41,Male,T-shirt,Clothing,80,Delaware,3.9,Free Shipping,Debit Card,Weekly
+511,21,Male,Shirt,Clothing,87,West Virginia,3.9,2-Day Shipping,Venmo,Annually
+512,61,Male,Shirt,Clothing,46,Hawaii,3.1,Free Shipping,PayPal,Annually
+513,19,Male,Gloves,Accessories,49,New York,3.3,Next Day Air,Bank Transfer,Monthly
+514,22,Male,Scarf,Accessories,65,New Mexico,3.6,Store Pickup,Venmo,Annually
+515,64,Male,Skirt,Clothing,62,Indiana,4.3,Standard,PayPal,Quarterly
+516,28,Male,Hat,Accessories,67,Kentucky,4.5,Next Day Air,Cash,Monthly
+517,34,Male,Hoodie,Clothing,41,West Virginia,2.8,2-Day Shipping,Debit Card,Bi-Weekly
+518,61,Male,Boots,Footwear,49,North Dakota,2.7,Free Shipping,Cash,Every 3 Months
+519,24,Male,Blouse,Clothing,100,Oregon,2.9,Next Day Air,Venmo,Every 3 Months
+520,19,Male,Belt,Accessories,54,Minnesota,4.4,2-Day Shipping,Bank Transfer,Quarterly
+521,51,Male,Sunglasses,Accessories,84,South Carolina,3.9,Free Shipping,Debit Card,Quarterly
+522,36,Male,Shorts,Clothing,41,Vermont,3.5,Standard,Bank Transfer,Annually
+523,65,Male,Gloves,Accessories,88,Minnesota,2.5,Store Pickup,Cash,Quarterly
+524,46,Male,Sandals,Footwear,40,Delaware,4.9,Express,PayPal,Quarterly
+525,59,Male,Shirt,Clothing,39,Pennsylvania,4.8,Free Shipping,PayPal,Annually
+526,51,Male,Coat,Outerwear,37,Iowa,3.2,Next Day Air,Debit Card,Monthly
+527,51,Male,Pants,Clothing,52,New Jersey,4.9,Standard,Cash,Monthly
+528,21,Male,T-shirt,Clothing,23,South Carolina,4.3,Next Day Air,Bank Transfer,Every 3 Months
+529,34,Male,Sneakers,Footwear,88,Maryland,3.2,Express,Cash,Annually
+530,32,Male,Shorts,Clothing,84,California,3.7,Standard,Credit Card,Monthly
